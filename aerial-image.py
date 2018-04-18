@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 4 18:34:12 2018
 
-@author: Naveenkumar
+@author: Jagruthi,Sabareesh,Naveenkumar
 """
 
 #imports added for the script
